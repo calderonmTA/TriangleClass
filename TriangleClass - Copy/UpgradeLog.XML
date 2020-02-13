@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TriangleTestClient">
+</Property><Property Name="Solution File" Value="C:\Users\Luke\Desktop\Lab3Classes\TriangleClass\TriangleTestClient.sln">
+</Property><Property Name="Date" Value="Friday, February 10, 2012">
+</Property><Property Name="Time" Value="0:55 AM">
+</Property></Properties><Event ErrorLevel="0" Project="TriangleTestClient" Source="TriangleTestClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TriangleTestClient" Source="TriangleTestClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TriangleTestClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TriangleTestClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TriangleTestClient" Source="TriangleTestClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

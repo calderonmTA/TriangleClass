@@ -1,0 +1,15 @@
+C:\Users\Luke\Desktop\C#apps\DistanceTestClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\C#apps\DistanceTestClient\bin\Debug\DistanceTestClient.exe
+C:\Users\Luke\Desktop\C#apps\DistanceTestClient\bin\Debug\DistanceTestClient.pdb
+C:\Users\Luke\Desktop\C#apps\DistanceTestClient\obj\Debug\DistanceTestClient.exe
+C:\Users\Luke\Desktop\C#apps\DistanceTestClient\obj\Debug\DistanceTestClient.pdb
+C:\Users\Luke\Desktop\DistanceTestClient\obj\Debug\DistanceTestClient.exe
+C:\Users\Luke\Desktop\DistanceTestClient\obj\Debug\DistanceTestClient.pdb
+C:\Users\Luke\Desktop\DistanceTestClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\DistanceTestClient\bin\Debug\DistanceTestClient.exe
+C:\Users\Luke\Desktop\DistanceTestClient\bin\Debug\DistanceTestClient.pdb
+C:\Users\Luke\Desktop\TriangleClass\obj\Debug\DistanceTestClient.exe
+C:\Users\Luke\Desktop\TriangleClass\obj\Debug\DistanceTestClient.pdb
+C:\Users\Luke\Desktop\TriangleClass\bin\Debug\DistanceTestClient.exe
+C:\Users\Luke\Desktop\TriangleClass\bin\Debug\DistanceTestClient.pdb
+C:\Users\Luke\Desktop\TriangleClass\obj\Debug\ResolveAssemblyReference.cache

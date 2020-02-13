@@ -1,0 +1,30 @@
+C:\Users\Luke\Desktop\TriangleClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\TriangleClass\bin\Debug\DistanceTestClient.exe
+C:\Users\Luke\Desktop\TriangleClass\bin\Debug\DistanceTestClient.pdb
+C:\Users\Luke\Desktop\TriangleClass\obj\Debug\DistanceTestClient.exe
+C:\Users\Luke\Desktop\TriangleClass\obj\Debug\DistanceTestClient.pdb
+C:\Users\Luke\Desktop\Lab3Classes\TriangleClass\obj\Debug\DistanceTestClient.exe
+C:\Users\Luke\Desktop\Lab3Classes\TriangleClass\obj\Debug\DistanceTestClient.pdb
+C:\Users\Luke\Desktop\Lab3Classes\TriangleClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\Lab3Classes\TriangleClass\bin\Debug\DistanceTestClient.exe
+C:\Users\Luke\Desktop\Lab3Classes\TriangleClass\bin\Debug\DistanceTestClient.pdb
+G:\CIS144\144-C#\144 2012\Labs\Spring\Lab 3 S2012\Lab3TriangleClasses\Lab3Classes\TriangleClass\obj\Debug\DistanceTestClient.exe
+G:\CIS144\144-C#\144 2012\Labs\Spring\Lab 3 S2012\Lab3TriangleClasses\Lab3Classes\TriangleClass\obj\Debug\DistanceTestClient.pdb
+G:\CIS144\144-C#\144 2012\Labs\Spring\L3 S2012\In class Demo\TriangleClass\obj\Debug\DistanceTestClient.exe
+G:\CIS144\144-C#\144 2012\Labs\Spring\L3 S2012\In class Demo\TriangleClass\obj\Debug\DistanceTestClient.pdb
+G:\CIS144\144-C#\144 2012\Labs\Spring\L3 S2012\In class Demo\Class\TriangleClass\obj\Debug\DistanceTestClient.exe
+G:\CIS144\144-C#\144 2012\Labs\Spring\L3 S2012\In class Demo\Class\TriangleClass\obj\Debug\DistanceTestClient.pdb
+G:\CIS144\144-C#\Labs\Spring\L3 S2012\In class Demo\Class\TriangleClass\obj\Debug\DistanceTestClient.exe
+G:\CIS144\144-C#\Labs\Spring\L3 S2012\In class Demo\Class\TriangleClass\obj\Debug\DistanceTestClient.pdb
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass\bin\Debug\DistanceTestClient.exe
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass\bin\Debug\DistanceTestClient.pdb
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass\obj\Debug\TriangleTestClient.csprojResolveAssemblyReference.cache
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass\obj\Debug\TriangleTestClient.csproj.CoreCompileInputs.cache
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass\obj\Debug\DistanceTestClient.exe
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass\obj\Debug\DistanceTestClient.pdb
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass - Copy\bin\Debug\DistanceTestClient.exe
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass - Copy\bin\Debug\DistanceTestClient.pdb
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass - Copy\obj\Debug\TriangleTestClient.csprojResolveAssemblyReference.cache
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass - Copy\obj\Debug\TriangleTestClient.csproj.CoreCompileInputs.cache
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass - Copy\obj\Debug\DistanceTestClient.exe
+C:\Users\calderonm\Downloads\TriangleClass\TriangleClass - Copy\obj\Debug\DistanceTestClient.pdb
