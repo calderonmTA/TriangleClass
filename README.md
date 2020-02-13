@@ -1,2 +1,2 @@
-# TriangleClass
+# TriangleClassSimple
 Copy of TriangleClass Notes
